@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @acord03
+- 👋 Hi, I’m @acord03 or Avery Cordero
 - 👀 I’m interested in video games, computers, and music
-- 🌱 I’m currently learning full-stack development with MERN
+- 🌱 I'm currently learning Video Game Development at Full Sail University
 - 📫 My personal email you can message me at is averycordero40@gmail.com
 
 <!---
